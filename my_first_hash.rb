@@ -4,7 +4,7 @@ usCities_byState = {
  
   "Las Vegas" => "Nevada",
   "Washington" => "District of Columbia",
-  "Albequerquie" => "New Mexico"
+  "Albuquerque" => "New Mexico"
  
 }
   
