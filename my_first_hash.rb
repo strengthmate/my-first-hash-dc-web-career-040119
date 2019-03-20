@@ -1,6 +1,6 @@
 def my_hash
 
-usCities_byState = {
+cities_by_state = {
   "Las Vegas" => "Nevada",
   "Washington" => "District of Columbia",
   "Albuquerque" => "New Mexico"
