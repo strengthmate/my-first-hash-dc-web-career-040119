@@ -4,7 +4,7 @@ def my_hash
   "Washington" => "District of Columbia",
   "Albuquerque" => "New Mexico",
   "Philadelphia" => "Pennsylvania"
-  }
+}
 end
 
 
