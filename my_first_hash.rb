@@ -1,9 +1,9 @@
 def my_hash
 
 cities_by_state = {
-  "Las Vegas" => "Nevada"
-  "Washington" => "District of Columbia"
-  "Albuquerque" => "New Mexico"
+  "Las Vegas" => "Nevada",
+  "Washington" => "District of Columbia",
+  "Albuquerque" => "New Mexico",
   "Philadelphia" => "Pennsylvania"
 }
   
