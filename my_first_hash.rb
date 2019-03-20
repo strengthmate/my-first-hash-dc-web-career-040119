@@ -1,10 +1,10 @@
 def my_hash
 
-dictionary = {
+usCities_byState = {
  
-  "apple" => "a delicious fruit",
-  "this readme" => "wonderful and informative piece of reading",
-  "Moby Dick" => "a novel by my good friend, Herman Melville"
+  "Las Vegas" => "Nevada",
+  "Washington" => "District of Columbia",
+  "Albequerquie" => "New Mexico"
  
 }
   
